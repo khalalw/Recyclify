@@ -1,4 +1,4 @@
-name: recyclopedia
+name: recyclify
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -66,3 +66,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
+
+  fonts:
+    - family: MyFlutterApp
+      fonts:
+        - asset: fonts/MyFlutterApp.ttf
